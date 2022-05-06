@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19003,
+  "expoServerPort": 19001,
+  "packagerPort": 19001,
+  "expoServerNgrokUrl": "https://im-3q3.anonymous.st-87-solution-master.exp.direct",
+  "packagerNgrokUrl": "https://packager.im-3q3.anonymous.st-87-solution-master.exp.direct",
+  "ngrokPid": 14528,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
